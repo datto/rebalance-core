@@ -1,0 +1,5 @@
+*.lock
+*.pyc
+__pycache__/
+/dist/
+*.egg-info
